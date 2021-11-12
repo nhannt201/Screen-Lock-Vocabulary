@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15cedcb6-cf84-408b-8f3b-e4b20426ca64": {
+      "ProjectGuid": "15cedcb6-cf84-408b-8f3b-e4b20426ca64",
+      "DisplayName": "Screen Lock Vocabulary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
